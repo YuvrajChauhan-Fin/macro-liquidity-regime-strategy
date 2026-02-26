@@ -1,5 +1,7 @@
 # Macro Liquidity Regime Allocation Strategy
 
+![Strategy Equity Curve](results/charts/equity_curve.png)
+
 ## Overview
 
 This project develops a systematic macro trading framework studying how global liquidity conditions influence equity market performance and portfolio risk.
