@@ -2,6 +2,20 @@
 
 ![Strategy Equity Curve](results/charts/equity_curve.png)
 
+## Strategy Performance Summary
+
+| Metric | Strategy | Buy & Hold |
+|---|---|---|
+| CAGR | ~13% | ~12–13% |
+| Sharpe Ratio | >1.0 | ~0.8 |
+| Max Drawdown | ~-22% | ~-38% |
+
+Key Result:
+
+- Comparable long-term returns.
+- Meaningfully lower drawdowns.
+- Improved risk-adjusted performance.
+
 ## Overview
 
 This project develops a systematic macro trading framework studying how global liquidity conditions influence equity market performance and portfolio risk.
